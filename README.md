@@ -27,7 +27,13 @@
             I satrted my coding Journey about 2 years ago and I have been learning at a extremly fast pace.
             You can think of this page has always under contruction. Over time when i make new projects I will leave links for them on this page.
             </p>
-            
+            <br></br>
+            <p>
+            believe it or not once upon a time i was a Trumpet player i'll attach a youtube video or me playing a recital back from 2005!
+            </p>
+            <object data='https://www.youtube.com/embed/nfk6sCzRTbM?autoplay=1' 
+        width='560px' height='315px'>
+    </object>
 
 
 </html>
