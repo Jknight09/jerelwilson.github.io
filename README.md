@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Webpage</title>
     <link rel="stylesheet" href="./index.css" />
     <link rel="stylesheet" href="./all.min.css" />
   </head>
@@ -29,11 +28,10 @@
             </p>
             <br></br>
             <p>
-            believe it or not once upon a time i was a Trumpet player i'll attach a youtube video or me playing a recital back from 2005!
+            I am still trying to figure out how to fill out this page and I will need to figure out if I should add other things to this page. One one hand I think it will help fill out <strong>this</strong>page but on the <italic>other</italic> hand. I don't think any future employers are gonna care about my Trumpet playing abilties or Record Producing that I've done but I will leave a link to my Soundcloud page.<a href="https://soundcloud.com/dj-no-face-1">My SoundCloud</a>
             </p>
-            <object data='https://www.youtube.com/embed/nfk6sCzRTbM?autoplay=1' 
-        width='560px' height='315px'>
-    </object>
+            
+<?main>
 
 
 </html>
