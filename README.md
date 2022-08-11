@@ -23,7 +23,6 @@
             <h2>About Me</h2>
             <p>
             Hello ny name is Jerel Wilson. I am a call center salesman turned web develper.
-            I satrted my coding Journey about 2 years ago and I have been learning at a extremly fast pace.
             You can think of this page has always under contruction. Over time when i make new projects I will leave links for them on this page.
             </p>
             <p>
