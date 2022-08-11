@@ -1,11 +1,8 @@
 <htmL> 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./index.css" />
-    <link rel="stylesheet" href="./all.min.css" />
+    <b>My First Page</b>
   </head>
-  <body>
+   <body>
     <nav>
       <h2 id="logo">Jerel Wilson</h2>
       <ul class="navigation-items">
@@ -15,6 +12,7 @@
         <li class="navigation-item"><a href="/contact.html">Contact</a></li>
       </ul>
     </nav>
+   </body>
 
 <main>
       <section id="about-me">
