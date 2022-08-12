@@ -1,3 +1,4 @@
+<!DOCTYPE>
 <htmL> 
 <head>
     <b>My First Page</b>
