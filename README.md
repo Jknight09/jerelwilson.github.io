@@ -32,7 +32,7 @@
             </p>
             
 </main>
-
+<footer>This is the <b>Bottom</b> of the page!</footer>
 
 </html>
 
