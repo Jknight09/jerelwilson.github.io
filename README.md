@@ -31,7 +31,7 @@
               Please keep in mind that I haven't added an new sounds to my Souncloud page in years so please be <ins><b>VERY</b></ins> understanding when you listening to my Instumentals.
             </p>             
             <p>
-            So I will not attach a CSS file to this page. Only because in the future I will plan to make other pages. I may add some pictures to this just to some that             I have some range of Front-End Development skills. 
+                So I <b>MAY</b> not attach a CSS file to this page. Only because in the future I will plan to make other pages. I may add some pictures to this just to some that             I have some range of Front-End Development skills. 
             </p>
             
 </main>
