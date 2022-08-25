@@ -33,6 +33,8 @@
             <p>
                 So I <b>MAY</b> not attach a CSS file to this page. Only because in the future I will plan to make other pages. I may add some pictures to this just to some that             I have some range of Front-End Development skills. 
             </p>
+              <p>
+              I'm also gonna include a link to my <a href="https://www.linkedin.com/in/jerel-wilson-82b79b176">Linkedin</a> profile here. Hopefully if I did this right You should be able to click the <a href="https://www.linkedin.com/in/jerel-wilson-82b79b176">Linkedin</a> in the last sentence and in <b><i><ins>this</ins></i></b> sentence as well. </p>
             
 </main>
             <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
