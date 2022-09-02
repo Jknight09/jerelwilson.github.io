@@ -8,7 +8,7 @@
         <h2 id="logo">Jerel Wilson</h2>
         <ul class="navigation-items">
             <li class="navigation-item"><a href="#about-me">About Me</a></li>
-            <li class="navigation-item"><a href="#edits">Edits</a></li>
+            <li class="navigation-item"><a href="#progress">Progress</a></li>
         </ul>
         </nav>
     </body>
@@ -32,16 +32,13 @@
             </p>
               <p>
               I'm also gonna include a link to my <a href="https://www.linkedin.com/in/jerel-wilson-82b79b176">Linkedin</a> profile here. Hopefully if I did this right You should be able to click the <a href="https://www.linkedin.com/in/jerel-wilson-82b79b176">Linkedin</a> in the last sentence and in <b><ins>THIS</ins></b> sentence as well. </p>
-            <h2>Edits</h2>
+            <h2>Progress</h2>
             <p>
             So this is me trying to create more content for the page. I went ahead and downloaded Visual Studio Code! So While I have it for my laptop I still cannot push the code from my laptop too Github. Idid download a clone forr my work here and i am able to work on it but I'm not able to push and of the updates to Github. Also sidenote: I like the idea of making a section of this webpage a diary for my growing pains of learning how to code. That sounds like a way to actually have content on my page and hopefully A little bit of a map for me to look back on.
             </p>
-            
-        
-        
-            
-    </main>
-        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
+              
+   </main>
+       <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
 
 </html>
 
