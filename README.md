@@ -8,9 +8,7 @@
       <h2 id="logo">Jerel Wilson</h2>
       <ul class="navigation-items">
         <li class="navigation-item"><a href="#about-me">About Me</a></li>
-        <li class="navigation-item"><a href="#projects">Projects</a></li>
-        <li class="navigation-item"><a href="#skills">Skills</a></li>
-        <li class="navigation-item"><a href="/contact.html">Contact</a></li>
+        <li class="navigation-item"><a href="#edits">Edits</a></li>
       </ul>
     </nav>
    </body>
