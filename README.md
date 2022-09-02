@@ -1,19 +1,18 @@
 <!DOCTYPE>
 <htmL> 
-<head>
+    <head>
     <b>My First Page</b>
-  </head>
-   <body>
-    <nav>
-      <h2 id="logo">Jerel Wilson</h2>
-      <ul class="navigation-items">
-        <li class="navigation-item"><a href="#about-me">About Me</a></li>
-        <li class="navigation-item"><a href="#edits">Edits</a></li>
-      </ul>
-    </nav>
-   </body>
-
-<main>
+    </head>
+    <body>
+        <nav>
+        <h2 id="logo">Jerel Wilson</h2>
+        <ul class="navigation-items">
+            <li class="navigation-item"><a href="#about-me">About Me</a></li>
+            <li class="navigation-item"><a href="#edits">Edits</a></li>
+        </ul>
+        </nav>
+    </body>
+    <main>
       <section id="about-me">
         <div class="about-me-container">
           <div class="about-me-text-container">
@@ -41,8 +40,8 @@
         
         
             
-</main>
-            <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
+    </main>
+        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
 
 </html>
 
