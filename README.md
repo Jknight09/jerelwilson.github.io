@@ -37,6 +37,8 @@
             <p>
             So this is me trying to create more content for the page. I went ahead and downloaded Visual Studio Code! So While I have it for my laptop I still cannot push the code from my laptop too Github. Idid download a clone forr my work here and i am able to work on it but I'm not able to push and of the updates to Github. Also sidenote: I like the idea of making a section of this webpage a diary for my growing pains of learning how to code. That sounds like a way to actually have content on my page and hopefully A little bit of a map for me to look back on.
             </p>
+              <br></br>
+                <h3>9/8/22</h3>
             <p>
             I'm working on a <b>BRAND NEW</b> Portfolio page. This one will be interactivate and will be the new home for me to showcase my skills. and this will be a way better page than this one. I do wonder if if this means that all of my green commits will dissapear? I <i><ins>HOPE</i></ins> it doesn't.
             </p>
