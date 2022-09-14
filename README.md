@@ -42,7 +42,11 @@
             <p>
             I'm working on a <b>BRAND NEW</b> Portfolio page. This one will be interactivate and will be the new home for me to showcase my skills. and this will be a way better page than this one. I do wonder if if this means that all of my green commits will dissapear? I <i><ins>HOPE</i></ins> it doesn't.
             </p>
-              
+              <br></br>
+                <h3>9/13/22</h3>
+            <p>
+            Today Im going to try and push code from Git to Github today! <i><ins>HOPE</i></ins> it doesn't.
+            </p>
    </main>
        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
 
