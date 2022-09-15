@@ -47,6 +47,11 @@
             <p>
             Today Im going to try and push code from Git to Github today! It <i><ins>LIVES</i></ins> I figured out how to push code from my laptop through Git to Github using the Command Line! You might actually call me a command Line Hero! Well <b>I</b> am going to call myself a command Line Hero.
             </p>
+            <br></br>
+                <h3>9/14/22</h3>
+            <p>
+            Today all I did is a couple of lessons on Codeacademy it was a long day so iI'm gonna turn in early.
+            </p>
    </main>
        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
 
