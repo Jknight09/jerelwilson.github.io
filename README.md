@@ -52,6 +52,11 @@
             <p>
             Today all I did is a couple of lessons on Codeacademy it was a long day so iI'm gonna turn in early.
             </p>
+            <br></br>
+                <h3>9/22/22</h3>
+            <p>
+            Today I'm going to do some Codeacademy modules and work on the Personal site page.
+            </p>
    </main>
        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
 
