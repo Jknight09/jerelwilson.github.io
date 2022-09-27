@@ -57,6 +57,19 @@
             <p>
             Today I'm going to do some Codeacademy modules and work on the Personal site page.
             </p>
+            <br></br>
+                <h3>9/26/22</h3>
+            <p>
+            Today I learned that sometimes you need to reconnect your Git account to your GitHub profile. It's been awhile since I've pushed something from Git (GitBash)to GitHub, but after doing some quick research I heard that I needed to learn about <B>Pull</b> requests.
+            <br></br>
+            <ins><b><u>To fix the issue I ran</ins></b></u>:
+            <br></br>
+            <i>git pull origin master</i>
+            <br></br>And Then I Ran<br></br>
+           <i>git push origin master</i>
+            <br></br>
+            Honestly I'm starting to learn tht google is my friend and my ally. Overtime I actually have faith that this will get eaiser but for now I'll go ahead and end this blog post here.
+            </p>
    </main>
        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
 
