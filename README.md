@@ -68,7 +68,7 @@
             <br></br>And Then I Ran<br></br>
            <i>git push origin master</i>
             <br></br>
-            Honestly I'm starting to learn tht google is my friend and my ally. Overtime I actually have faith that this will get eaiser but for now I'll go ahead and end this blog post here.
+            Honestly I'm starting to learn tht google is my friend and my ally. Overtime I actually have faith that this will get eaiser but for now I'll go ahead and end this blog post here. Also did a couple of Modules on Codeacademy.
             </p>
    </main>
        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
