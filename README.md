@@ -70,6 +70,13 @@
             <br></br>
             Honestly I'm starting to learn tht google is my friend and my ally. Overtime I actually have faith that this will get eaiser but for now I'll go ahead and end this blog post here. Also did a couple of Modules on Codeacademy.
             </p>
+            <br></br>
+            <h2>October</h2>
+             <h3>10/4/22</h3>
+            <p>
+            Today I'm going to do some Codeacademy modules learned about TDD. Notthing more to report
+            </p>
+            <br></br>
    </main>
        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
 
