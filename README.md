@@ -87,6 +87,11 @@
             Today I'm going to do some Codeacademy modules learned more about Promises. Notthing more to report
             </p>
             <br></br>
+            <h3>10/18/22</h3>
+            <p>
+            Today I did some modules and learned about async & Await keywords. Honestly understanding that await is used for promoises to resolve one after another is interesting. Notthing more to report
+            </p>
+            <br></br>
    </main>
        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
 
