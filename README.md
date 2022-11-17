@@ -92,6 +92,11 @@
             Today I did some modules and learned about async & Await keywords. Honestly understanding that await is used for promoises to resolve one after another is interesting. Notthing more to report
             </p>
             <br></br>
+            <h3>11/17/22</h3>
+            <p>
+            i took a break for awhile because i was getting fustrated with coding but I'm back Today I started <b>React!</b>. Well really it was JSX. Its coll to add header elements with javascript classes with const.
+            </p>
+            <br></br>
    </main>
        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
 
