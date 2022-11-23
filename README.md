@@ -97,6 +97,11 @@
             i took a break for awhile because i was getting fustrated with coding but I'm back Today I started <b>React!</b>. Well really it was JSX. Its coll to add header elements with javascript classes with const.
             </p>
             <br></br>
+             <h3>11/22/22</h3>
+            <p>
+            Today i started REACT!!!. Finally getting into the beast that is React. It's seems like I need to learn JSX first. Which is just a javascript library and is a good combo of HTML & Javascirpt. Really excitied to see what is to come.
+            </p>
+            <br></br>
    </main>
        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
 
