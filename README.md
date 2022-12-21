@@ -102,6 +102,11 @@
             Today i started REACT!!!. Finally getting into the beast that is React. It's seems like I need to learn JSX first. Which is just a javascript library and is a good combo of HTML & Javascirpt. Really excitied to see what is to come.
             </p>
             <br></br>
+            <h3>12/20/22</h3>
+            <p>
+            I took a break from coding but now im back and jumping into React!. Didn't do anything too major today just started working on compunds.
+            </p>
+            <br></br>
    </main>
        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
 
