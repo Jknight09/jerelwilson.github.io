@@ -107,6 +107,11 @@
             I took a break from coding but now im back and jumping into React!. Didn't do anything too major today just started working on compunds.
             </p>
             <br></br>
+            <h3>12/21/22</h3>
+            <p>
+            Work on more React today. Nothing new to report.
+            </p>
+            <br></br>
    </main>
        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
 
