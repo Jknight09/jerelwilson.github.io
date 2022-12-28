@@ -112,6 +112,11 @@
             Work on more React today. Nothing new to report.
             </p>
             <br></br>
+             <h3>12/27/22</h3>
+            <p>
+            Work on more React today. Working on using Logic in React went back to using variable keywords like <b><i>let</b></i>. Nothing much to report today. one step closer to a front end dev!.
+            </p>
+            <br></br>
    </main>
        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
 
