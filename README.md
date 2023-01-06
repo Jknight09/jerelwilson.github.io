@@ -78,21 +78,22 @@
               <div class="october-text-container">
             <h2>October</h2>
              <h3>10/4/22</h3>
-            <p>
+              <p>
             Today I'm going to do some Codeacademy modules learned about TDD. Notthing more to report
-            </p>
-            <h3>10/6/22</h3>
-            <p>
+              </p>
+             <h3>10/6/22</h3>
+              <p>
             Today I'm going to do some Codeacademy modules learned about Promises. Notthing more to report
-            </p>
-            <h3>10/10/22</h3>
-            <p>
+              </p>
+             <h3>10/10/22</h3>
+              <p>
             Today I'm going to do some Codeacademy modules learned more about Promises. Notthing more to report
-            </p>
-            <h3>10/18/22</h3>
-            <p>
+              </p>
+             <h3>10/18/22</h3>
+              <p>
             Today I did some modules and learned about async & Await keywords. Honestly understanding that await is used for promoises to resolve one after another is interesting. Notthing more to report
-            </p>
+             </p>
+              <a href="#top">Top of the Page</a>                  
             <br></br>
             <section id="november">
              <div class="november-container">
@@ -125,8 +126,8 @@
             Work on more React today. Working on using Logic in React went back to using variable keywords like <b><i>let</b></i>. Nothing much to report today. one step closer to a front end dev!.
               </p>
                <a href="#top">Top of the Page</a>
-            <br></br>
-            <b><i><ins><h1>2023!</h1></ins></i></b> 
+                <br></br>
+                 <b><i><ins><h1>2023!</h1></ins></i></b> 
             <section id="january">
              <div class="january-container">
               <div class="january-text-container">
@@ -134,7 +135,7 @@
              <p>
             Finished doing the first part of React. I learned that doing React is alot of ES6+ and different javascript programs like JSX. So far enjoying everything but I need to keep going!
              </p>
-            <a href="#top">top of the page</a>
+              <a href="#top">top of the page</a>
    </main>
              <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer><br /><a href="#top">Back to top of page</a>
 </html>
