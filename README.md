@@ -92,6 +92,7 @@
             Today I did some modules and learned about async & Await keywords. Honestly understanding that await is used for promoises to resolve one after another is interesting. Notthing more to report
             </p>
             <br></br>
+            <h2>November</h2>
             <h3>11/17/22</h3>
             <p>
             i took a break for awhile because i was getting fustrated with coding but I'm back Today I started <b>React!</b>. Well really it was JSX. Its coll to add header elements with javascript classes with const.
@@ -102,6 +103,7 @@
             Today i started REACT!!!. Finally getting into the beast that is React. It's seems like I need to learn JSX first. Which is just a javascript library and is a good combo of HTML & Javascirpt. Really excitied to see what is to come.
             </p>
             <br></br>
+            <h2>December</h2>
             <h3>12/20/22</h3>
             <p>
             I took a break from coding but now im back and jumping into React!. Didn't do anything too major today just started working on compunds.
