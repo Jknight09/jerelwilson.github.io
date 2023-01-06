@@ -9,6 +9,10 @@
         <ul class="navigation-items">
             <li class="navigation-item"><a href="#about-me">About Me</a></li>
             <li class="navigation-item"><a href="#progress">Progress</a></li>
+            <li class="navigation-item"><a href="#september">About Me</a></li>
+            <li class="navigation-item"><a href="#about-me">About Me</a></li>
+            <li class="navigation-item"><a href="#about-me">About Me</a></li>
+            <li class="navigation-item"><a href="#about-me">About Me</a></li>
         </ul>
         </nav>
     </body>
@@ -32,6 +36,9 @@
             </p>
               <p>
               I'm also gonna include a link to my <a href="https://www.linkedin.com/in/jerel-wilson-82b79b176">Linkedin</a> profile here. Hopefully if I did this right You should be able to click the <a href="https://www.linkedin.com/in/jerel-wilson-82b79b176">Linkedin</a> in the last sentence and in <b><ins>THIS</ins></b> sentence as well. </p>
+            <section id="september">
+             <div class="september-container">
+              <div class="september-text-container">
             <h2>September</h2>
               <h3>9/1/22</h3>
             <p>
