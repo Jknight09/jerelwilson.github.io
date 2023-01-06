@@ -44,28 +44,23 @@
             <p>
             So this is me trying to create more content for the page. I went ahead and downloaded Visual Studio Code! So While I have it for my laptop I still cannot push the code from my laptop too Github. Idid download a clone forr my work here and i am able to work on it but I'm not able to push and of the updates to Github. Also sidenote: I like the idea of making a section of this webpage a diary for my growing pains of learning how to code. That sounds like a way to actually have content on my page and hopefully A little bit of a map for me to look back on.
             </p>
-              
-                <h3>9/8/22</h3>
+              <h3>9/8/22</h3>
             <p>
             I'm working on a <b>BRAND NEW</b> Portfolio page. This one will be interactivate and will be the new home for me to showcase my skills. and this will be a way better page than this one. I do wonder if if this means that all of my green commits will dissapear? I <i><ins>HOPE</i></ins> it doesn't.
             </p>
-              <br></br>
-                <h3>9/13/22</h3>
+              <h3>9/13/22</h3>
             <p>
             Today Im going to try and push code from Git to Github today! It <i><ins>LIVES</i></ins> I figured out how to push code from my laptop through Git to Github using the Command Line! You might actually call me a command Line Hero! Well <b>I</b> am going to call myself a command Line Hero.
             </p>
-            <br></br>
-                <h3>9/14/22</h3>
+               <h3>9/14/22</h3>
             <p>
             Today all I did is a couple of lessons on Codeacademy it was a long day so iI'm gonna turn in early.
             </p>
-            <br></br>
-                <h3>9/22/22</h3>
+               <h3>9/22/22</h3>
             <p>
             Today I'm going to do some Codeacademy modules and work on the Personal site page.
             </p>
-            <br></br>
-                <h3>9/26/22</h3>
+               <h3>9/26/22</h3>
             <p>
             Today I learned that sometimes you need to reconnect your Git account to your GitHub profile. It's been awhile since I've pushed something from Git (GitBash)to GitHub, but after doing some quick research I heard that I needed to learn about <B>Pull</b> requests.
             <br></br>
@@ -86,17 +81,14 @@
             <p>
             Today I'm going to do some Codeacademy modules learned about TDD. Notthing more to report
             </p>
-            <br></br>
             <h3>10/6/22</h3>
             <p>
             Today I'm going to do some Codeacademy modules learned about Promises. Notthing more to report
             </p>
-            <br></br>
             <h3>10/10/22</h3>
             <p>
             Today I'm going to do some Codeacademy modules learned more about Promises. Notthing more to report
             </p>
-            <br></br>
             <h3>10/18/22</h3>
             <p>
             Today I did some modules and learned about async & Await keywords. Honestly understanding that await is used for promoises to resolve one after another is interesting. Notthing more to report
@@ -110,38 +102,36 @@
             <p>
             i took a break for awhile because i was getting fustrated with coding but I'm back Today I started <b>React!</b>. Well really it was JSX. Its coll to add header elements with javascript classes with const.
             </p>
-            <br></br>
-             <h3>11/22/22</h3>
-            <p>
+            <h3>11/22/22</h3>
+             <p>
             Today i started REACT!!!. Finally getting into the beast that is React. It's seems like I need to learn JSX first. Which is just a javascript library and is a good combo of HTML & Javascirpt. Really excitied to see what is to come.
-            </p>
+             </p>
             <br></br>
             <section id="december">
              <div class="december-container">
               <div class="december-text-container">
             <h2>December</h2>
-            <h3>12/20/22</h3>
-            <p>
+             <h3>12/20/22</h3>
+              <p>
             I took a break from coding but now im back and jumping into React!. Didn't do anything too major today just started working on compunds.
-            </p>
-            <br></br>
-            <h3>12/21/22</h3>
-            <p>
+              </p>
+             <h3>12/21/22</h3>
+              <p>
             Work on more React today. Nothing new to report.
-            </p>
-            <br></br>
+              </p>
              <h3>12/27/22</h3>
-            <p>
+              <p>
             Work on more React today. Working on using Logic in React went back to using variable keywords like <b><i>let</b></i>. Nothing much to report today. one step closer to a front end dev!.
-            </p>
+              </p>
             <br></br>
             <b><i><ins><h1>2023!</h1></ins></i></b> 
             <section id="january">
              <div class="january-container">
               <div class="january-text-container">
-            <h2>January</h2>
-            <p>
-            Finished doing the first part of React. I learned that doing React is alot of ES6+ and different javascript programs like JSX. So far enjoying everything but I need to keep going!</p>
+            <h2>January</h2><a href="#top">Top</a>
+             <p>
+            Finished doing the first part of React. I learned that doing React is alot of ES6+ and different javascript programs like JSX. So far enjoying everything but I need to keep going!
+             </p>
    </main>
              <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer><br /><a href="#top">Back to top of page</a>
 </html>
