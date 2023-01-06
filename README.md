@@ -119,8 +119,10 @@
             Work on more React today. Working on using Logic in React went back to using variable keywords like <b><i>let</b></i>. Nothing much to report today. one step closer to a front end dev!.
             </p>
             <br></br>
-            <br></br>
             <b><i><ins><h1>2023!</h1></ins></i></b> 
+            <h2>December</h2>
+            <p>
+            Finished doing the first part of React. I learned that doing React is alot of ES6+ and different javascript programs like JSX. So far enjoying everything but I need to keep going!</p>
    </main>
        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
 
