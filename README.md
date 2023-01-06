@@ -9,10 +9,7 @@
         <ul class="navigation-items">
             <li class="navigation-item"><a href="#about-me">About Me</a></li>
             <li class="navigation-item"><a href="#progress">Progress</a></li>
-            <li class="navigation-item"><a href="#september">About Me</a></li>
-            <li class="navigation-item"><a href="#about-me">About Me</a></li>
-            <li class="navigation-item"><a href="#about-me">About Me</a></li>
-            <li class="navigation-item"><a href="#about-me">About Me</a></li>
+            <li class="navigation-item"><a href="#september">September</a></li>
         </ul>
         </nav>
     </body>
