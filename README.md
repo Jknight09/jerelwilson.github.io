@@ -12,7 +12,7 @@
             <li class="navigation-item"><a href="#october">October</a></li>
             <li class="navigation-item"><a href="#november">November</a></li>
             <li class="navigation-item"><a href="#december">December</a></li>
-            <li class="navigation-item"><a href="#december">December</a></li>
+            <li class="navigation-item"><a href="#january">January</a></li>
         </ul>
         </nav>
     </body>
@@ -144,6 +144,7 @@
             Finished doing the first part of React. I learned that doing React is alot of ES6+ and different javascript programs like JSX. So far enjoying everything but I need to keep going!</p>
    </main>
        <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
+             #top
 
 </html>
 
