@@ -36,6 +36,7 @@
             </p>
               <p>
               I'm also gonna include a link to my <a href="https://www.linkedin.com/in/jerel-wilson-82b79b176">Linkedin</a> profile here. Hopefully if I did this right You should be able to click the <a href="https://www.linkedin.com/in/jerel-wilson-82b79b176">Linkedin</a> in the last sentence and in <b><ins>THIS</ins></b> sentence as well. </p>
+              <a href="#top">Top</a>
             <section id="september">
              <div class="september-container">
               <div class="september-text-container">
@@ -73,7 +74,7 @@
             Honestly I'm starting to learn tht google is my friend and my ally. Overtime I actually have faith that this will get eaiser but for now I'll go ahead and end this blog post here. Also did a couple of Modules on Codeacademy.
               </p>
              <br></br>
-              <a href="#top">Top of the Page</a>
+              <a href="#top">Top</a>
             <section id="october">
              <div class="october-container">
               <div class="october-text-container">
@@ -94,7 +95,7 @@
               <p>
             Today I did some modules and learned about async & Await keywords. Honestly understanding that await is used for promoises to resolve one after another is interesting. Notthing more to report
              </p>
-              <a href="#top">Top of the Page</a>                  
+              <a href="#top">Top</a>                  
                <br></br>
             <section id="november">
              <div class="november-container">
@@ -108,7 +109,7 @@
               <p>
             Today i started REACT!!!. Finally getting into the beast that is React. It's seems like I need to learn JSX first. Which is just a javascript library and is a good combo of HTML & Javascirpt. Really excitied to see what is to come.
               </p>
-               <a href="#top">Top of the Page</a>
+               <a href="#top">Top</a>
                 <br></br>
             <section id="december">
              <div class="december-container">
@@ -126,7 +127,7 @@
               <p>
             Work on more React today. Working on using Logic in React went back to using variable keywords like <b><i>let</b></i>. Nothing much to report today. one step closer to a front end dev!.
               </p>
-               <a href="#top">Top of the Page</a>
+               <a href="#top">Top</a>
                 <br></br>
                  <b><i><ins><h1>2023!</h1></ins></i></b> 
             <section id="january">
@@ -136,7 +137,7 @@
              <p>
             Finished doing the first part of React. I learned that doing React is alot of ES6+ and different javascript programs like JSX. So far enjoying everything but I need to keep going!
              </p>
-              <a href="#top">top of the page</a>
+              <a href="#top">Top</a>
                   <br></br>
    </main>
                 <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
