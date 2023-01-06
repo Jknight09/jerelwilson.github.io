@@ -123,6 +123,7 @@
               <p>
             Work on more React today. Working on using Logic in React went back to using variable keywords like <b><i>let</b></i>. Nothing much to report today. one step closer to a front end dev!.
               </p>
+                  <button><a href="#top">Top Page</button></a>
             <br></br>
             <b><i><ins><h1>2023!</h1></ins></i></b> 
             <section id="january">
