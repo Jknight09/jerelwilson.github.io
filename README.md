@@ -143,9 +143,7 @@
             <p>
             Finished doing the first part of React. I learned that doing React is alot of ES6+ and different javascript programs like JSX. So far enjoying everything but I need to keep going!</p>
    </main>
-       <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer>
-                 <a href="#top">Back to top of page</a>
-
+             <footer>This is the <b><i><ins>Bottom</ins></i></b> of the page!</footer><br /><a href="#top">Back to top of page</a>
 </html>
 
 
