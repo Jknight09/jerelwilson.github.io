@@ -128,7 +128,7 @@
             <section id="january">
              <div class="january-container">
               <div class="january-text-container">
-            <h2>January</h2><a href="#top">Top</a>
+            <h2>January <a href="#top">top of the page</a></h2>
              <p>
             Finished doing the first part of React. I learned that doing React is alot of ES6+ and different javascript programs like JSX. So far enjoying everything but I need to keep going!
              </p>
