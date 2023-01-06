@@ -8,8 +8,11 @@
         <h2 id="logo">Jerel Wilson</h2>
         <ul class="navigation-items">
             <li class="navigation-item"><a href="#about-me">About Me</a></li>
-            <li class="navigation-item"><a href="#progress">Progress</a></li>
             <li class="navigation-item"><a href="#september">September</a></li>
+            <li class="navigation-item"><a href="#october">October</a></li>
+            <li class="navigation-item"><a href="#november">November</a></li>
+            <li class="navigation-item"><a href="#december">December</a></li>
+            <li class="navigation-item"><a href="#december">December</a></li>
         </ul>
         </nav>
     </body>
@@ -75,6 +78,9 @@
             Honestly I'm starting to learn tht google is my friend and my ally. Overtime I actually have faith that this will get eaiser but for now I'll go ahead and end this blog post here. Also did a couple of Modules on Codeacademy.
             </p>
             <br></br>
+            <section id="october">
+             <div class="october-container">
+              <div class="october-text-container">
             <h2>October</h2>
              <h3>10/4/22</h3>
             <p>
@@ -96,6 +102,9 @@
             Today I did some modules and learned about async & Await keywords. Honestly understanding that await is used for promoises to resolve one after another is interesting. Notthing more to report
             </p>
             <br></br>
+            <section id="november">
+             <div class="november-container">
+              <div class="november-text-container">
             <h2>November</h2>
             <h3>11/17/22</h3>
             <p>
@@ -107,6 +116,9 @@
             Today i started REACT!!!. Finally getting into the beast that is React. It's seems like I need to learn JSX first. Which is just a javascript library and is a good combo of HTML & Javascirpt. Really excitied to see what is to come.
             </p>
             <br></br>
+            <section id="december">
+             <div class="december-container">
+              <div class="december-text-container">
             <h2>December</h2>
             <h3>12/20/22</h3>
             <p>
@@ -124,7 +136,10 @@
             </p>
             <br></br>
             <b><i><ins><h1>2023!</h1></ins></i></b> 
-            <h2>December</h2>
+            <section id="january">
+             <div class="january-container">
+              <div class="january-text-container">
+            <h2>January</h2>
             <p>
             Finished doing the first part of React. I learned that doing React is alot of ES6+ and different javascript programs like JSX. So far enjoying everything but I need to keep going!</p>
    </main>
