@@ -130,8 +130,13 @@
              <div class="january-container">
               <div class="january-text-container">
             <h2>January</h2>
+            <h3>1/5/23</h3>
              <p>
             Finished doing the first part of React. I learned that doing React is alot of ES6+ and different javascript programs like JSX. So far enjoying everything but I need to keep going!
+             </p>
+             <h3>1/10/23</h3>
+             <p>
+            I forgot to post yesterday. We started using props. Which they say we are not actually useful but it seems like something a manager would use to give someone notes on a bit of code.
              </p>
               <a href="#top">Top</a>
                   <br></br>
