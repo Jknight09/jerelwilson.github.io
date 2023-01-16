@@ -138,6 +138,10 @@
              <p>
             I forgot to post yesterday. We started using props. Which they say we are not actually useful but it seems like something a manager would use to give someone notes on a bit of code.
              </p>
+             <h3>1/16/23</h3>
+             <p>
+            Happy MLK day. even though Im working im still coding away on code academy. Wroked on props and event handlers.
+             </p>
               <a href="#top">Top</a>
                   <br></br>
    </main>
