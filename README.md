@@ -142,6 +142,10 @@
              <p>
             Happy MLK day. even though Im working im still coding away on code academy. Wroked on props and event handlers.
              </p>
+             <h3>1/23/23</h3>
+             <p>
+            Nothing crazy to report today just did some more coding. 
+             </p>
               <a href="#top">Top</a>
                   <br></br>
    </main>
